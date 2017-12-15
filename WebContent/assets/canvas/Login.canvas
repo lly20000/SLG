@@ -1,0 +1,1073 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Login",
+    "sceneWidth": 640,
+    "sceneHeight": 360,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true
+  },
+  "stateSettings": {
+    "stageBackgroundColor": [
+      0,
+      0,
+      0
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "851965e9-f27f-4df0-9544-44801fbbc1c7",
+    "info": {
+      "editorName": "Login",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "4ddee1fa-fa45-4aac-8858-953a93097905",
+          "asset": "0",
+          "info": {
+            "editorName": "_0031",
+            "editorShow": false,
+            "scale.x": 0.6259500569923728,
+            "scale.y": 0.5619599675262535
+          }
+        },
+        {
+          "type": "image",
+          "id": "fd0123a1-40b6-4b42-9629-4089b6dec151",
+          "asset": "1",
+          "info": {
+            "editorName": "_0015",
+            "editorShow": false,
+            "x": 151,
+            "y": 20,
+            "scale.x": 0.7,
+            "scale.y": 0.7
+          }
+        },
+        {
+          "type": "group",
+          "id": "ce12eded-d0f0-4ee0-908e-f79e9fad6cac",
+          "info": {
+            "editorName": "group",
+            "setAll": [],
+            "children": [
+              {
+                "type": "image",
+                "id": "f103e24f-3f88-4436-b327-40cfb714974c",
+                "asset": "2",
+                "info": {
+                  "editorName": "_0051",
+                  "x": 18,
+                  "y": 14,
+                  "scale.x": 0.6,
+                  "scale.y": 0.6
+                }
+              },
+              {
+                "type": "image",
+                "id": "d13688ee-2d3b-4c6c-923e-7de4637d9e49",
+                "asset": "3",
+                "info": {
+                  "editorName": "_0041",
+                  "x": 18,
+                  "y": 57,
+                  "scale.x": 0.6,
+                  "scale.y": 0.6
+                }
+              },
+              {
+                "type": "image",
+                "id": "b87ac76d-ec57-439e-a3e8-8a06cf4a3f3f",
+                "asset": "4",
+                "info": {
+                  "editorName": "_0017",
+                  "x": 252,
+                  "y": 226,
+                  "scale.x": 0.5,
+                  "scale.y": 0.5
+                }
+              },
+              {
+                "type": "image",
+                "id": "3bae56f6-79ff-487b-af41-6167bc9d01e9",
+                "asset": "5",
+                "info": {
+                  "editorName": "_0042",
+                  "x": 215,
+                  "y": 181,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "848e86f9-3eae-4c04-90d7-e5fc6004ab9f",
+                "asset": "6",
+                "info": {
+                  "editorName": "_0022",
+                  "x": 341,
+                  "y": 192,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "group",
+          "id": "91662eba-2f44-4707-a27c-a56d0ae6a44c",
+          "info": {
+            "editorName": "server_list",
+            "editorShow": false,
+            "setAll": [],
+            "children": [
+              {
+                "type": "image",
+                "id": "0e00a7b1-6290-4d6e-82b0-0dd59af095f8",
+                "asset": "7",
+                "info": {
+                  "editorName": "_00110",
+                  "x": -1,
+                  "scale.x": 3.338541638042161,
+                  "scale.y": 3.342592396204639
+                }
+              },
+              {
+                "type": "image",
+                "id": "1c60a7e0-2ad9-427d-853c-5160b22c8f24",
+                "asset": "8",
+                "info": {
+                  "editorName": "_00111",
+                  "x": 76,
+                  "y": 22,
+                  "scale.x": 0.5,
+                  "scale.y": 0.5
+                }
+              },
+              {
+                "type": "image",
+                "id": "3e7758f2-73c3-48c8-9df2-049fd20b46b0",
+                "asset": "9",
+                "info": {
+                  "editorName": "_0016",
+                  "x": 101,
+                  "y": 94,
+                  "scale.x": 0.6962025591461893
+                }
+              },
+              {
+                "type": "image",
+                "id": "9871d409-a92f-49e7-97aa-8a97cba0fb3d",
+                "asset": "10",
+                "info": {
+                  "editorName": "_00112",
+                  "x": 102,
+                  "y": 160,
+                  "scale.x": 1.7724695844494478,
+                  "scale.y": 1.5943925807186081
+                }
+              },
+              {
+                "type": "text",
+                "id": "b43fb764-6aaa-4bed-b0ea-90925e89a484",
+                "info": {
+                  "editorName": "server_list_title",
+                  "x": 271,
+                  "y": 25,
+                  "text": "·þÎñÆ÷ÁÐ±í",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "cbbe6721-2c85-4a99-b6e3-0fb8be42ae10",
+                "info": {
+                  "editorName": "recent_login",
+                  "x": 105,
+                  "y": 65,
+                  "text": "×î½üµÇÂ¼",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "image",
+                "id": "a8cf93fb-23ba-4fb3-b6ca-ecc48f026eca",
+                "asset": "11",
+                "info": {
+                  "editorName": "_00113",
+                  "x": 122,
+                  "y": 103,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "cd9fe36a-4226-4db0-a5ad-287d3caf799a",
+                "asset": "11",
+                "info": {
+                  "editorName": "_001131",
+                  "x": 123,
+                  "y": 169,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "c36ac44c-4d84-4ec6-a8a4-ea1b3a653415",
+                "asset": "11",
+                "info": {
+                  "editorName": "_001132",
+                  "x": 123,
+                  "y": 225,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "e4c119c8-8aca-4108-93bc-7d10fd14b7a1",
+                "asset": "11",
+                "info": {
+                  "editorName": "_001133",
+                  "x": 124,
+                  "y": 280,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "30e5d801-a3a3-4594-b2ba-f29ba8e76840",
+                "asset": "11",
+                "info": {
+                  "editorName": "_0011311",
+                  "x": 269,
+                  "y": 169,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "07b74ef5-5d98-42c1-bd1b-b9f6b8665e74",
+                "asset": "11",
+                "info": {
+                  "editorName": "_0011321",
+                  "x": 269,
+                  "y": 225,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "bc07225c-13a7-4918-b406-a3a1b3b78365",
+                "asset": "11",
+                "info": {
+                  "editorName": "_0011331",
+                  "x": 270,
+                  "y": 280,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "f0a86d7a-4038-47ea-91e1-eb02a88756ce",
+                "asset": "11",
+                "info": {
+                  "editorName": "_0011312",
+                  "x": 413,
+                  "y": 170,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "8f5b3535-5872-49e7-9673-6387ab6a8934",
+                "asset": "11",
+                "info": {
+                  "editorName": "_0011322",
+                  "x": 413,
+                  "y": 226,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "5378ca95-ccc2-46cf-99a6-1363791eb1eb",
+                "asset": "11",
+                "info": {
+                  "editorName": "_0011332",
+                  "x": 414,
+                  "y": 281,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "d9ac8c35-8e76-4681-b2ca-3113c6abbc3a",
+                "asset": "12",
+                "info": {
+                  "editorName": "_0021",
+                  "x": 473,
+                  "y": 178,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "54274f4c-730a-4577-a763-6a657821c51c",
+                "asset": "13",
+                "info": {
+                  "editorName": "_0013",
+                  "x": 183,
+                  "y": 178,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "4a6c7623-7e2a-48cf-808c-1a63c92e1629",
+                "asset": "14",
+                "info": {
+                  "editorName": "_0014",
+                  "x": 330,
+                  "y": 178,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "image",
+                "id": "88036e7b-72b7-4856-bb27-07045fd02175",
+                "asset": "15",
+                "info": {
+                  "editorName": "_0012",
+                  "x": 182,
+                  "y": 111,
+                  "scale.x": 0.7,
+                  "scale.y": 0.7
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "group",
+          "id": "2150c1b5-4295-4a24-9531-882a908c7086",
+          "info": {
+            "editorName": "progress_bar",
+            "editorShow": false,
+            "setAll": [],
+            "children": [
+              {
+                "type": "image",
+                "id": "e528385e-5f6b-4151-b6f5-d6ed19e844c9",
+                "asset": "16",
+                "info": {
+                  "editorName": "_0018",
+                  "x": 49,
+                  "y": 251,
+                  "scale.x": 0.8,
+                  "scale.y": 0.8
+                }
+              },
+              {
+                "type": "image",
+                "id": "33859d0c-f1a3-45f0-9189-b3d494a88ca0",
+                "asset": "17",
+                "info": {
+                  "editorName": "_0019",
+                  "x": 93,
+                  "y": 270,
+                  "scale.x": 0.8,
+                  "scale.y": 0.8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "group",
+          "id": "6f9cce12-0fc3-4e13-a90d-111fbfe6345d",
+          "info": {
+            "editorName": "notice",
+            "editorShow": false,
+            "setAll": [],
+            "children": [
+              {
+                "type": "image",
+                "id": "04050395-3589-4850-9aba-fb8f3bc50994",
+                "asset": "7",
+                "info": {
+                  "editorName": "_001101",
+                  "x": -1,
+                  "y": 1,
+                  "scale.x": 3.3437498737644282,
+                  "scale.y": 3.324073935425925
+                }
+              },
+              {
+                "type": "image",
+                "id": "d67a9a43-5f6f-41c6-acf4-53966cf67546",
+                "asset": "8",
+                "info": {
+                  "editorName": "_001111",
+                  "x": 83,
+                  "y": 19,
+                  "scale.x": 0.5,
+                  "scale.y": 0.5
+                }
+              },
+              {
+                "type": "text",
+                "id": "0de36964-d3cb-4d2e-a0bf-09796737cba5",
+                "info": {
+                  "editorName": "notice_title",
+                  "x": 307,
+                  "y": 22,
+                  "text": "¹«¸æ",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "group",
+          "id": "74c27137-c677-4605-8a44-a62f3b87ad3f",
+          "info": {
+            "editorName": "login",
+            "setAll": [],
+            "children": [
+              {
+                "type": "image",
+                "id": "de3aa985-6034-4406-8851-534ea40f6bf3",
+                "asset": "18",
+                "info": {
+                  "editorName": "_00114",
+                  "x": 188,
+                  "y": 51,
+                  "scale.x": 0.9315789735430035,
+                  "scale.y": 0.7
+                }
+              },
+              {
+                "type": "text",
+                "id": "9b0155bf-e8a6-4199-a0f4-e36471b77663",
+                "info": {
+                  "editorName": "login_title",
+                  "x": 284,
+                  "y": 68,
+                  "text": "ÓÃ»§µÇÂ¼",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "bf3401fe-af95-4637-813d-a60a7f71761a",
+                "info": {
+                  "editorName": "number",
+                  "x": 205,
+                  "y": 121,
+                  "text": "ÕË    ºÅ",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "cbc69cff-b2f2-467d-b8e0-eef76da5d8b2",
+                "info": {
+                  "editorName": "password_1 ",
+                  "x": 206,
+                  "y": 164,
+                  "text": "ÃÜ    Âë",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "e995c50c-636b-4fe7-82b7-fc75b604b28c",
+                "info": {
+                  "editorName": "fo_password_btn",
+                  "x": 355,
+                  "y": 196,
+                  "text": "Íü¼ÇÃÜÂë£¿",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fontSize": 15,
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "image",
+                "id": "3b525c8c-08c9-43ce-be5f-f8f5c85549f6",
+                "asset": "19",
+                "info": {
+                  "editorName": "_00117",
+                  "x": 208,
+                  "y": 246,
+                  "scale.x": 0.6,
+                  "scale.y": 0.6
+                }
+              },
+              {
+                "type": "image",
+                "id": "67423f57-f29e-487e-890b-94d64abcf7ff",
+                "asset": "20",
+                "info": {
+                  "editorName": "_00116",
+                  "x": 328,
+                  "y": 246,
+                  "scale.x": 0.6,
+                  "scale.y": 0.6
+                }
+              },
+              {
+                "type": "text",
+                "id": "a651142e-7332-42a3-bc65-8e0e8eae1abb",
+                "info": {
+                  "editorName": "login_btn",
+                  "x": 235,
+                  "y": 252,
+                  "text": " µÇ Â¼",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#ffe3b5",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "e65f51f3-e3c7-4c6d-b9ff-4c42079b14b1",
+                "info": {
+                  "editorName": "register_btn",
+                  "x": 340,
+                  "y": 252,
+                  "text": "×¢²áÕËºÅ",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#ffe3b5",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "image",
+                "id": "0678d898-ac6a-489b-8320-0f2a85033d07",
+                "asset": "21",
+                "info": {
+                  "editorName": "_0011521",
+                  "x": 295,
+                  "y": 118
+                }
+              },
+              {
+                "type": "image",
+                "id": "c37c21b4-3ca6-431b-9b9b-2950ba372c7a",
+                "asset": "21",
+                "info": {
+                  "editorName": "_00115111",
+                  "x": 295,
+                  "y": 161
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "group",
+          "id": "3fd3ab2d-213a-4f52-a6ab-1792196d552a",
+          "info": {
+            "editorName": "registe",
+            "editorShow": false,
+            "setAll": [],
+            "children": [
+              {
+                "type": "text",
+                "id": "8d4cc0a8-a17f-4448-b0e7-8bf54743ab4b",
+                "info": {
+                  "editorName": "registe_title",
+                  "x": 284,
+                  "y": 68,
+                  "text": "ÓÃ»§×¢²á",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "ddfeae61-6a8d-4942-9629-db3917deda66",
+                "info": {
+                  "editorName": "mobile",
+                  "x": 207,
+                  "y": 104,
+                  "text": "ÊÖ »ú ºÅ",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "19e04d41-ab57-40e1-a33f-09870a93a3c5",
+                "info": {
+                  "editorName": "code",
+                  "x": 208,
+                  "y": 142,
+                  "text": "Ñé Ö¤ Âë",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "image",
+                "id": "d7e5ac5e-af49-4440-8c0f-36d9b0934e40",
+                "asset": "19",
+                "info": {
+                  "editorName": "_001171",
+                  "x": 208,
+                  "y": 257,
+                  "scale.x": 0.6,
+                  "scale.y": 0.6
+                }
+              },
+              {
+                "type": "image",
+                "id": "fc792c4a-c7a1-4640-b4b1-b556c1695628",
+                "asset": "20",
+                "info": {
+                  "editorName": "_001161",
+                  "x": 328,
+                  "y": 257,
+                  "scale.x": 0.6,
+                  "scale.y": 0.6
+                }
+              },
+              {
+                "type": "text",
+                "id": "d14426d7-c5eb-41d9-bc12-8bfed439a24b",
+                "info": {
+                  "editorName": "back_btn_1",
+                  "x": 235,
+                  "y": 263,
+                  "text": "·µ »Ø",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#ffe3b5",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "597b28fa-8c5f-4f45-b652-588286c897d7",
+                "info": {
+                  "editorName": "re_number_btn",
+                  "x": 340,
+                  "y": 263,
+                  "text": "×¢²áÕËºÅ",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#ffe3b5",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "image",
+                "id": "ea224b61-0ccd-423d-ae17-6432ff348a83",
+                "asset": "21",
+                "info": {
+                  "editorName": "_00115211",
+                  "x": 297,
+                  "y": 101
+                }
+              },
+              {
+                "type": "image",
+                "id": "14aa5892-6326-4b1d-91c7-6cb857e1c436",
+                "asset": "21",
+                "info": {
+                  "editorName": "_001151111",
+                  "x": 297,
+                  "y": 139,
+                  "scale.x": 0.4565217432810137
+                }
+              },
+              {
+                "type": "text",
+                "id": "ea0d1dfa-edf5-4790-b908-38a42a30d76a",
+                "info": {
+                  "editorName": "password_0",
+                  "x": 208,
+                  "y": 180,
+                  "text": "ÃÜ    Âë",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "7547f650-0686-4a95-ab50-74a292a5292d",
+                "info": {
+                  "editorName": "en_password_1",
+                  "editorPublic": true,
+                  "x": 209,
+                  "y": 218,
+                  "text": "È·ÈÏÃÜÂë",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "image",
+                "id": "2e9d5402-10a9-407d-b525-17c4da580904",
+                "asset": "21",
+                "info": {
+                  "editorName": "_001152111",
+                  "x": 297,
+                  "y": 177
+                }
+              },
+              {
+                "type": "image",
+                "id": "8ef16c1b-d771-4dae-9136-d314801b098d",
+                "asset": "21",
+                "info": {
+                  "editorName": "_0011511111",
+                  "x": 298,
+                  "y": 215
+                }
+              },
+              {
+                "type": "image",
+                "id": "38168d21-5d98-4928-b783-7446b3346190",
+                "asset": "22",
+                "info": {
+                  "editorName": "_00118",
+                  "x": 352,
+                  "y": 139,
+                  "scale.x": 0.7,
+                  "scale.y": 0.687500039511908
+                }
+              },
+              {
+                "type": "text",
+                "id": "e0d91dd6-57df-4098-b3f5-bb112c7f9b75",
+                "info": {
+                  "editorName": "send_btn",
+                  "x": 367,
+                  "y": 141,
+                  "text": "·¢  ËÍ",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "group",
+          "id": "b10a6624-0a71-4722-957c-9c1e2ef035d5",
+          "info": {
+            "editorName": "forget",
+            "editorShow": false,
+            "x": 1,
+            "y": 1,
+            "setAll": [],
+            "children": [
+              {
+                "type": "text",
+                "id": "c577f454-2765-4d4f-ad35-40af37cc8d51",
+                "info": {
+                  "editorName": "fo_password",
+                  "x": 284,
+                  "y": 68,
+                  "text": "Íü¼ÇÃÜÂë",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "3e3642cc-62eb-4a12-ac85-a06c05258c4c",
+                "info": {
+                  "editorName": "new_password",
+                  "x": 205,
+                  "y": 121,
+                  "text": "ÐÂ ÃÜ Âë",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "7dabc226-a3dd-41d0-9b85-e3ab23011ce9",
+                "info": {
+                  "editorName": "en_password_0",
+                  "x": 206,
+                  "y": 164,
+                  "text": "È·ÈÏÃÜÂë",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#feb48f",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "image",
+                "id": "ab682f67-af43-44ec-ba98-ef7b4029edb3",
+                "asset": "19",
+                "info": {
+                  "editorName": "_001172",
+                  "x": 208,
+                  "y": 246,
+                  "scale.x": 0.6,
+                  "scale.y": 0.6
+                }
+              },
+              {
+                "type": "image",
+                "id": "16e0ef4f-83c4-4309-9f22-625119eee13c",
+                "asset": "20",
+                "info": {
+                  "editorName": "_001162",
+                  "x": 328,
+                  "y": 246,
+                  "scale.x": 0.6,
+                  "scale.y": 0.6
+                }
+              },
+              {
+                "type": "text",
+                "id": "94911263-798f-4771-a9f9-da30df7ce179",
+                "info": {
+                  "editorName": "back_btn _0",
+                  "x": 235,
+                  "y": 252,
+                  "text": "·µ »Ø",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#ffe3b5",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "text",
+                "id": "d31ab1f9-3843-464e-b663-4054017a9d3e",
+                "info": {
+                  "editorName": "ensure_btn",
+                  "x": 350,
+                  "y": 252,
+                  "text": "È·  ¶¨",
+                  "style.font": "ººÒÇÑÕ¿¬W",
+                  "style.fill": "#ffe3b5",
+                  "style.stroke": "#c0c0c0",
+                  "style.align": "RIGHT"
+                }
+              },
+              {
+                "type": "image",
+                "id": "ba7ea722-ebd5-4153-81a0-84452abafaa8",
+                "asset": "21",
+                "info": {
+                  "editorName": "_00115212",
+                  "x": 295,
+                  "y": 118
+                }
+              },
+              {
+                "type": "image",
+                "id": "7925ab33-77c9-4ebc-af2d-ef1adf8c91d7",
+                "asset": "21",
+                "info": {
+                  "editorName": "_001152121",
+                  "x": 296,
+                  "y": 161
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10031"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10015"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10051"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10041"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10017"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10042"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10022"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100110"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100111"
+    },
+    "9": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10016"
+    },
+    "10": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100112"
+    },
+    "11": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100113"
+    },
+    "12": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10021"
+    },
+    "13": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10013"
+    },
+    "14": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10014"
+    },
+    "15": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10012"
+    },
+    "16": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10018"
+    },
+    "17": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "10019"
+    },
+    "18": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100114"
+    },
+    "19": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100117"
+    },
+    "20": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100116"
+    },
+    "21": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100115"
+    },
+    "22": {
+      "file": "WebContent/assets/pack.json",
+      "section": "Login",
+      "asset": "100118"
+    }
+  },
+  "prefab-table": {}
+}

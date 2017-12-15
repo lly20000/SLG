@@ -1,0 +1,319 @@
+{
+  "Map1": [
+    {
+      "type": "image",
+      "key": "1001",
+      "url": "assets/images/Map/Block/1/1001.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "1002",
+      "url": "assets/images/Map/Block/1/1002.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "1003",
+      "url": "assets/images/Map/Block/1/1003.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "1004",
+      "url": "assets/images/Map/Block/1/1004.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "1005",
+      "url": "assets/images/Map/Block/1/1005.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "1006",
+      "url": "assets/images/Map/Block/1/1006.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "2001",
+      "url": "assets/images/Map/Block/1/2001.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "2002",
+      "url": "assets/images/Map/Block/1/2002.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "2003",
+      "url": "assets/images/Map/Block/1/2003.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "2004",
+      "url": "assets/images/Map/Block/1/2004.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "2005",
+      "url": "assets/images/Map/Block/1/2005.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "2006",
+      "url": "assets/images/Map/Block/1/2006.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3001",
+      "url": "assets/images/Map/Block/1/3001.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3002",
+      "url": "assets/images/Map/Block/1/3002.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3003",
+      "url": "assets/images/Map/Block/1/3003.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3004",
+      "url": "assets/images/Map/Block/1/3004.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3005",
+      "url": "assets/images/Map/Block/1/3005.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "3006",
+      "url": "assets/images/Map/Block/1/3006.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4001",
+      "url": "assets/images/Map/Block/1/4001.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4002",
+      "url": "assets/images/Map/Block/1/4002.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4003",
+      "url": "assets/images/Map/Block/1/4003.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4004",
+      "url": "assets/images/Map/Block/1/4004.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4005",
+      "url": "assets/images/Map/Block/1/4005.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "4006",
+      "url": "assets/images/Map/Block/1/4006.jpg",
+      "overwrite": false
+    }
+  ],
+  "Login": [
+    {
+      "type": "image",
+      "key": "10011",
+      "url": "assets/images/UI/LoginUI/login_1.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10012",
+      "url": "assets/images/UI/LoginUI/login_10.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10013",
+      "url": "assets/images/UI/LoginUI/login_11.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10014",
+      "url": "assets/images/UI/LoginUI/login_12.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10021",
+      "url": "assets/images/UI/LoginUI/login_13.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10031",
+      "url": "assets/images/UI/LoginUI/login_14.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10041",
+      "url": "assets/images/UI/LoginUI/login_16.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10051",
+      "url": "assets/images/UI/LoginUI/login_17.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10015",
+      "url": "assets/images/UI/LoginUI/login_18.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10016",
+      "url": "assets/images/UI/LoginUI/login_2.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10022",
+      "url": "assets/images/UI/LoginUI/login_3.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10032",
+      "url": "assets/images/UI/LoginUI/login_6.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10042",
+      "url": "assets/images/UI/LoginUI/login_8.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10052",
+      "url": "assets/images/UI/LoginUI/login_9.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10017",
+      "url": "assets/images/UI/Public/public_8.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10018",
+      "url": "assets/images/UI/UpdateUI/update_2.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10019",
+      "url": "assets/images/UI/UpdateUI/update_3.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100110",
+      "url": "assets/images/UI/Public/public_154.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100111",
+      "url": "assets/images/UI/Public/public_11.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100113",
+      "url": "assets/images/UI/Public/public_128.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100112",
+      "url": "assets/images/UI/MainUI/main_30.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100114",
+      "url": "assets/images/UI/GangUI/gang_50.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100115",
+      "url": "assets/images/UI/Public/public_72_1.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100116",
+      "url": "assets/images/UI/Public/public_4.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100117",
+      "url": "assets/images/UI/Public/public_5.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100118",
+      "url": "assets/images/UI/Public/public_44.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "100119",
+      "url": "assets/images/Map/Block/10/1001.jpg",
+      "overwrite": false
+    }
+  ],
+  "meta": {
+    "generated": "1513214168138",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}
